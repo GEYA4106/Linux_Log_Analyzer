@@ -1,0 +1,11 @@
+ERROR Authentication failed
+INFO Server started
+INFO User login successful
+WARNING Disk space low
+ERROR Database connection failed
+INFO Backup completed
+ERROR Network timeout
+WARNING CPU usage high
+INFO User logout
+ERROR Memory allocation failed
+INFO System running

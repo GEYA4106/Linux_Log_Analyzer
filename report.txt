@@ -1,0 +1,17 @@
+===== LOG ANALYZER =====
+
+Total Errors:
+4
+
+Total Warnings:
+2
+
+Error Details:
+ERROR Authentication failed
+ERROR Database connection failed
+ERROR Network timeout
+ERROR Memory allocation failed
+
+Warning Details:
+WARNING Disk space low
+WARNING CPU usage high

@@ -1,0 +1,3 @@
+ERROR Database connection failed
+ERROR Network timeout
+ERROR Memory allocation failed
